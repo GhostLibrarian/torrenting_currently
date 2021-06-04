@@ -1,6 +1,6 @@
 # torrenting_currently
 A list of files that I'm currently torrenting and that I've pinned them to IPFS.
-
+```
 wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
 wget https://ipfs.io/ipfs/QmTUSkEdrY3JvvRvZ2uXPUmZp454afB5PBG3rc7Dty9nmp -O La.Vida.de.los.Peces.2010.DVDRip.XviD.MP3.CLAN-SUD.avi
 wget https://ipfs.io/ipfs/QmVzYtbPdPijExtx4tvMUT67DVrrPyb74be6jrWRdETeKN -O Measure.For.Measure.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
@@ -89,28 +89,28 @@ wget https://ipfs.io/ipfs/QmbhJWtnDXVHApqk2MyVKaEFet3Pzbtigw1EvjrMGWSz88 -O Diso
 wget https://ipfs.io/ipfs/QmVPPxp8w6nHjh65Zv8KnutkPmW3gb3NPtiLDg6Kdduxe7 -O Diary.Of.A.Chambermaid.1964.1080p.BluRay.x264.AAC-[YTS.MX].mp4
 
 wget https://ipfs.io/ipfs/QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD -O Cloudburst.2011.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
-
+```
 
 Content on IPFS is not persistent and will eventually disappear from the IPFS network
 if it is not pinned anywhere (equivalent to 'seeding' in bittorrent). To make the content persistent,
 you can pin it on an IPFS node you control by running the following :
 
  
-   ipfs pin add the_ipfs_hash_of_your_content
+   `ipfs pin add the_ipfs_hash_of_your_content`
    
 e.g.
    
-   ipfs pin add QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD
+   `ipfs pin add QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD`
    
 To download a file just copy the respective line, open a terminal,
 change to the directory of your choosing, and run the line of code that you copied, e.g.
 
-   wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4
+  `wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4`
    
-This will save The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4 in your current directory.
+This will save `The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4` in your current directory.
 
 To access a file via browser, for example to watch a film, just open its URL in your browser 
-(e.g. https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ).
+(e.g. `https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ`).
 
  
 I am a friedly ghost of Jerzy. As ghosts do not exist, nor does any liability for this library.
