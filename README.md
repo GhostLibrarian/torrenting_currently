@@ -1,11 +1,12 @@
 # torrenting_currently
-A list of files that I'm currently torrenting and that I've pinned them to IPFS.
+
+A list -O of_files_that_Im_currently_torrenting_and_that_Ive_pinned_them_to_IPFS.
+
 ```
 wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
 wget https://ipfs.io/ipfs/QmTUSkEdrY3JvvRvZ2uXPUmZp454afB5PBG3rc7Dty9nmp -O La.Vida.de.los.Peces.2010.DVDRip.XviD.MP3.CLAN-SUD.avi
 wget https://ipfs.io/ipfs/QmVzYtbPdPijExtx4tvMUT67DVrrPyb74be6jrWRdETeKN -O Measure.For.Measure.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
 wget https://ipfs.io/ipfs/QmdEj2Uwwjfo4oMAQPdeVUJHHyUYEckZwvJC5L5G2K5jX6 -O A_Escondidas_2014_WEB-DL_720p_x264_AC3_Castellano_URBiN4HD_Spa_Forced_Sub.mkv
-wget https://ipfs.io/ipfs/QmVUMFNw9YPWqnrRjvnMB5ynDSpNeU3TmoxYvbjL5dLgid -O Les_Revenants_2x01_720p_[www.newpct1.com].mkv
 wget https://ipfs.io/ipfs/QmUk914YNZ7AxYB86LLXUG3G3ZEPK7ts2NX6f1inYjKYBa -O port.authority.2019.dvdrip.x264-bipolar.mkv
 wget https://ipfs.io/ipfs/Qmd6toh4QfoKNBGXMNGgsMsko4GTSysc2GTx6wBzXQ2Ges -O All.About.E.2015.HDRip.XviD.AC3-EVO.avi
 wget https://ipfs.io/ipfs/QmP7YyXTbKru7KvjrQzPc5Z33bqn5FFUaB8szs5EVe1q3s -O Habana_Eva_2010_DVDRiP_LATiNO.XViD_[TaquillaDivx.com].avi
@@ -32,32 +33,9 @@ wget https://ipfs.io/ipfs/QmSxVynUQ885jnc8o5M3ymoCrvmqfbqqXc9jNi41ZaGVPy -O El_b
 wget https://ipfs.io/ipfs/QmTeHoRaVtu9sE5mMUXW7PaUcsjTHDmTooE4tnHNBHMziB -O Chloe.2010.BrRip.720p.x264.YIFY.mkv
 wget https://ipfs.io/ipfs/QmXrvr9FwVT2d2RzVZXCXZMncPPz9YvQM55xvLi9GUk9qK -O Better_Than_Chocolate_-_1999_Multisub.mkv
 wget https://ipfs.io/ipfs/QmfPH9TpcPZ5BTCQwDEcNEgZBCR4oQ52ztg1fQdrLykEgx -O Strawberry_and_Chocolate.avi
-wget https://ipfs.io/ipfs/QmSWj2RpNQJhzs6M44fzneLiJVStHDihJVwMEQfWBeRYbJ -O The_Returned_S01E08_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmRUGX1RtB1uheVDy9JhqE2AG7ozQGfLVbhHffc34c6NmG -O The_Returned_S01E05_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmQ5QGUXhFnALakeuwfExizkoUEBgYu66uKDf8FxK8XT5R -O The_Returned_S01E04_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmPbfnShgcKRyNA4YcmyMTb3NVGZE73jspHPsTWU6ywcRR -O The_Returned_S01E03_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/Qme6BtmZ6dXBxmyhffeNmu83xPtJn4qdbngFfh9EedSqYj -O The_Returned_S01E01_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmNn7VfqD1yiPYNW2SgALJ1j1uLrB9Q5NwSyh2MrAeKcaZ -O The_Returned_S01E06_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmVDrLyVjZxAFSZuNW6nF8QVzCSZcmoi2uH7BTG2PRxE98 -O The_Returned_S01E07_HC_E-Subs_[GWC].mkv
-wget https://ipfs.io/ipfs/QmYgPg8XBotWvQxfpT6YwSeSJnWY3ejAp3UiwGvCLy4eAo -O The_Returned_S01E02_HC_E-Subs_[GWC].mkv
 wget https://ipfs.io/ipfs/QmYvN9S6WrsuLXGyQdEuP5NxuuspJhzYwYCxc395BSbY28 -O La_voz_dormida_2011_[DVDRip][Spanish][WwW.ZoNaTorrent.CoM].avi
 wget https://ipfs.io/ipfs/QmSquttco7x8vhrdED4jbUNzd2nFjN2iNFGM2MP6Jdwh5a -O Elena.Undone.2010.DvdRip.Xvid_{1337x}-Noir.avi
 wget https://ipfs.io/ipfs/Qmf3v865c2HRi5dLf8vJCshe3MexSa8su9eSEkpfxWCALq -O Liz.In.September.2014.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
-
-wget https://ipfs.io/ipfs/QmVvpBjsik1wWhn6YqxAKTaC17p7SWpupq7J6UPfVXCs1Z -O PlayHD.ooo_Money_Heist_S01E11_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmTbxzDtAn6mvtU39MS8Enr8dt5WjFjCnncW8PWNLbrNJ8 -O PlayHD.ooo_Money_Heist_S01E07_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmQhGkcpAxYTuazqLEvfapLp9LLDzxSb475fgnEuHV47aW -O PlayHD.ooo_Money_Heist_S01E04_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmW3LdzgdKNyUiBUDEXh8bkc5Teb4WUZNUnN3rnhLHMACX -O PlayHD.ooo_Money_Heist_S01E10_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmYzT4JK99XBxmRK7iK28zfAwpcmzYKiByGDnPqWiPa2yz -O PlayHD.ooo_Money_Heist_S01E08_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmWjhrCtLUk8wrTtPKFZfwdmrhtwtAoorTPDNExeYpScjx -O PlayHD.ooo_Money_Heist_S01E01_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmXLXGGnQkk8DULSGLa8WwbNpxCMm5tTWYxNxakXUABYL9 -O PlayHD.ooo_Money_Heist_S01E05_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmQkKp26yL76W4whN1mncrR5pcK1dA24Dd9k6zvR6m5Hfz -O PlayHD.ooo_Money_Heist_S01E03_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmXarqw1r7vffWF2121Ep7B3p5mWqr7ThEnxm3N8K2AXui -O PlayHD.ooo_Money_Heist_S01E02_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmVYCo6YPoRRbnn2WnYggk6iTczYYsn9yLNiF38UK34LUe -O PlayHD.ooo_Money_Heist_S01E13_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmUkVJCgh3Rdd54uz1vNs4zLzrHCGeUqDvtZ8S5Bio2xzx -O PlayHD.ooo_Money_Heist_S01E06_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmSNkrpTtXWKzjSc3d2Kh5XP6TF7NnoftS3sGHrFwhoXJL -O PlayHD.ooo_Money_Heist_S01E12_English_HD_720p_x264_AAC.mp4
-wget https://ipfs.io/ipfs/QmYkW7xC3kzhF2PHF4w13qWGNFNxsjKKSffGXYzDuaGk3D -O PlayHD.ooo_Money_Heist_S01E09_English_HD_720p_x264_AAC.mp4
-
 wget https://ipfs.io/ipfs/QmbZqUs5wMLoGRd5HSsReKcsiAYGPp7pw7EeNAF5J8hdKu -O Tiempos_de_Guerra_S01E02.mp4
 wget https://ipfs.io/ipfs/QmbJYEgvS8FfYrQ9mNia3M6Syfid8wATy8MxgAoMBGjT27 -O Tiempos_de_Guerra_S01E12.mp4
 wget https://ipfs.io/ipfs/QmcxLuKaEAtWkqYCH2zfqFrwNjoXQuGikpQXAQadcux8jg -O Tiempos_de_Guerra_S01E04.mp4
@@ -73,7 +51,7 @@ wget https://ipfs.io/ipfs/QmcEofk6xadMvGQhwYhTffwDFNPcj4Tk959MLRxe1p4n5R -O Tiem
 wget https://ipfs.io/ipfs/QmV3MifzEgysDy3ryiR3jj6kBS9nbMK24YPB4VyMTayAu9 -O Tiempos_de_Guerra_S01E01.mp4
 wget https://ipfs.io/ipfs/QmPE2pSxV3ZaQ26kdk8Mayw5WkArLt9FaMqPwwghxRsrxc -O Ausente_Absent_2011.avi
 wget https://ipfs.io/ipfs/QmV47MTQzzem7c5yLXJPU9XDBG5nk39u7dKaRWHbAXKprv -O Measure.For.Measure.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-
+wget https://ipfs.io/ipfs/QmRi64ZsJPn7qj3fHfAzrNGfFQtN78BGkWNBhvbkATUfcw -O ar15_complete.zip
 wget https://ipfs.io/ipfs/QmXmonWcNpYcot8TBLfrkup8DtuGDGjVmauiUzmTFLzAYa -O Alto.2015.UNRATED.HDRip.XviD.AC3-EVO.avi
 wget https://ipfs.io/ipfs/QmVMpJtoWC8LADou3LP7HMG1feuBwdoK6Uns7be1biFmbu -O Sky_Rojo_S01E02.mkv
 wget https://ipfs.io/ipfs/QmastB5H2wmhBbvjPGR5Fy87HQ7GtAxNGJpVmiYctzFxF7 -O Sky_Rojo_S01E01.mkv
@@ -84,10 +62,8 @@ wget https://ipfs.io/ipfs/QmPVdZGKvTGdmj1JsXGTGNqECB82zsQrKJvmFg88wb4KLV -O Sky_
 wget https://ipfs.io/ipfs/QmekG4UtLacpzXA7CVkJNxe2tHwk4ydUnM5fVJ6hkpJoMp -O Sky_Rojo_S01E03.mkv
 wget https://ipfs.io/ipfs/QmNz6RtQa99C2wScrHSpP6PC1XZbaiDuQa7ioSw78QggJV -O Sky_Rojo_S01E04.mkv
 wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4
-
 wget https://ipfs.io/ipfs/QmbhJWtnDXVHApqk2MyVKaEFet3Pzbtigw1EvjrMGWSz88 -O Disobedience.2017.BRRip.XViD-ETRG.avi
 wget https://ipfs.io/ipfs/QmVPPxp8w6nHjh65Zv8KnutkPmW3gb3NPtiLDg6Kdduxe7 -O Diary.Of.A.Chambermaid.1964.1080p.BluRay.x264.AAC-[YTS.MX].mp4
-
 wget https://ipfs.io/ipfs/QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD -O Cloudburst.2011.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
 ```
 
@@ -96,21 +72,21 @@ if it is not pinned anywhere (equivalent to 'seeding' in bittorrent). To make th
 you can pin it on an IPFS node you control by running the following :
 
  
-   `ipfs pin add the_ipfs_hash_of_your_content`
+   ipfs pin add the_ipfs_hash_of_your_content
    
 e.g.
    
-   `ipfs pin add QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD`
+   ipfs pin add QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD
    
 To download a file just copy the respective line, open a terminal,
 change to the directory of your choosing, and run the line of code that you copied, e.g.
 
-  `wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4`
+   wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4
    
-This will save `The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4` in your current directory.
+This will save The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4 in your current directory.
 
-To access a file via browser, for example to watch a film, just open its URL in your browser 
-(e.g. `https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ`).
+To access a file via browser, for example to watch a film or download it, just open its URL in your browser 
+(e.g. https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ).
 
  
 I am a friedly ghost of Jerzy. As ghosts do not exist, nor does any liability for this library.
@@ -120,3 +96,4 @@ Donations would allow me to buy more hardware needed for building up this librar
 Monero (XMR):
 
 4AyUcoJy7MJGLGD7ujn8ppJtUBLWqzMU3ds1rcYysHZQ3KuqfZ54kLPAM5KSouCKu1H96Xp5ysee3BhkYYV3jejAD5qPwsn
+
