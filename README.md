@@ -2,8 +2,7 @@
 
 A list of files that I'm currently torrenting and that I've pinned them to IPFS.
 
-```
-wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
+>wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
 wget https://ipfs.io/ipfs/QmTUSkEdrY3JvvRvZ2uXPUmZp454afB5PBG3rc7Dty9nmp -O La.Vida.de.los.Peces.2010.DVDRip.XviD.MP3.CLAN-SUD.avi
 wget https://ipfs.io/ipfs/QmVzYtbPdPijExtx4tvMUT67DVrrPyb74be6jrWRdETeKN -O Measure.For.Measure.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
 wget https://ipfs.io/ipfs/QmdEj2Uwwjfo4oMAQPdeVUJHHyUYEckZwvJC5L5G2K5jX6 -O A_Escondidas_2014_WEB-DL_720p_x264_AC3_Castellano_URBiN4HD_Spa_Forced_Sub.mkv
@@ -65,7 +64,7 @@ wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.
 wget https://ipfs.io/ipfs/QmbhJWtnDXVHApqk2MyVKaEFet3Pzbtigw1EvjrMGWSz88 -O Disobedience.2017.BRRip.XViD-ETRG.avi
 wget https://ipfs.io/ipfs/QmVPPxp8w6nHjh65Zv8KnutkPmW3gb3NPtiLDg6Kdduxe7 -O Diary.Of.A.Chambermaid.1964.1080p.BluRay.x264.AAC-[YTS.MX].mp4
 wget https://ipfs.io/ipfs/QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD -O Cloudburst.2011.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
-```
+
 
 Content on IPFS is not persistent and will eventually disappear from the IPFS network
 if it is not pinned anywhere (equivalent to 'seeding' in bittorrent). To make the content persistent,
