@@ -1,6 +1,6 @@
 # torrenting_currently
 
-A list -O of_files_that_Im_currently_torrenting_and_that_Ive_pinned_them_to_IPFS.
+A list of files that I'm currently torrenting and that I've pinned them to IPFS.
 
 ```
 wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
