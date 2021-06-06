@@ -3,13 +3,21 @@
 A list of files that I'm currently torrenting and that I've pinned them to IPFS.
 
 wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
+
 wget https://ipfs.io/ipfs/QmTUSkEdrY3JvvRvZ2uXPUmZp454afB5PBG3rc7Dty9nmp -O La.Vida.de.los.Peces.2010.DVDRip.XviD.MP3.CLAN-SUD.avi
+
 wget https://ipfs.io/ipfs/QmVzYtbPdPijExtx4tvMUT67DVrrPyb74be6jrWRdETeKN -O Measure.For.Measure.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+
 wget https://ipfs.io/ipfs/QmdEj2Uwwjfo4oMAQPdeVUJHHyUYEckZwvJC5L5G2K5jX6 -O A_Escondidas_2014_WEB-DL_720p_x264_AC3_Castellano_URBiN4HD_Spa_Forced_Sub.mkv
+
 wget https://ipfs.io/ipfs/QmUk914YNZ7AxYB86LLXUG3G3ZEPK7ts2NX6f1inYjKYBa -O port.authority.2019.dvdrip.x264-bipolar.mkv
+
 wget https://ipfs.io/ipfs/Qmd6toh4QfoKNBGXMNGgsMsko4GTSysc2GTx6wBzXQ2Ges -O All.About.E.2015.HDRip.XviD.AC3-EVO.avi
+
 wget https://ipfs.io/ipfs/QmP7YyXTbKru7KvjrQzPc5Z33bqn5FFUaB8szs5EVe1q3s -O Habana_Eva_2010_DVDRiP_LATiNO.XViD_[TaquillaDivx.com].avi
+
 wget https://ipfs.io/ipfs/QmYwnYpLtUED1CL6EvCvCSyTWxABqfGP4Wh3174pD4WqMc -O Bloomington_2010_RETAIL_DD_5.1_1.5_GB_SRT_XVID_EXTERNE_SUBS.avi
+
 wget https://ipfs.io/ipfs/QmP4mt9WB9DUommkqbHM89zbMyYopyZnvkMFSiJg4BNquJ -O Les_Revenants_2012_-_S01E06_-_Lucy_1080p_BluRay_x265_Silence.mkv
 wget https://ipfs.io/ipfs/QmNcmWxoCadR9Y6u2gZia9ByX5ewZTxo5USxvSghyVbGVK -O Les_Revenants_2012_-_S01E03_-_Julie_1080p_BluRay_x265_Silence.mkv
 wget https://ipfs.io/ipfs/QmZhGA8i9Fc9DyKwpg57yrUD85eNi2f19q6JmByGnhYf4T -O Les_Revenants_2012_-_S01E07_-_Adele_1080p_BluRay_x265_Silence.mkv
@@ -26,15 +34,24 @@ wget https://ipfs.io/ipfs/QmbaLgCkWyNgkybL9pNeztjgoJXo25gHhwPNRjBBY1U1Nj -O Les_
 wget https://ipfs.io/ipfs/QmSQEkvXWetkTbR9MhF2oxEcvo6tYYbJa8W35RYUHTR7UJ -O Les_Revenants_2012_-_S02E02_-_Milan_1080p_x265_Silence.mkv
 wget https://ipfs.io/ipfs/QmfQnwygUsRkHs4DUCLQr6uapGjeFTKK9knh75nxrc9PbR -O Les_Revenants_2012_-_S02E07_-_Étienne_1080p_x265_Silence.mkv
 wget https://ipfs.io/ipfs/QmbycLzt7zzE71qYZNL1VccdpDYrT9zepB2wzHsbca6ys3 -O Les_Revenants_2012_-_S02E08_-_Les_Revenants_1080p_x265_Silence.mkv
+
 wget https://ipfs.io/ipfs/QmUByR27P1UWGJQWtAFfiZKY4SD1X5PmfQKsq44tRGUJ5A -O ashley.2013.1080p.web-dl.h264-publichd.mkv
+
 wget https://ipfs.io/ipfs/QmdXCvWmCMMC6ALE8EHMej6d8zcgDjGEo4TjXW9gFYaXdE -O Desert.Hearts.1985.1080p.BluRay.x264-[YTS.AG].mp4
+
 wget https://ipfs.io/ipfs/QmSxVynUQ885jnc8o5M3ymoCrvmqfbqqXc9jNi41ZaGVPy -O El_baile_de_los_41.2020.french-spa.1080p.WEB.x264-NBDY.mkv
+
 wget https://ipfs.io/ipfs/QmTeHoRaVtu9sE5mMUXW7PaUcsjTHDmTooE4tnHNBHMziB -O Chloe.2010.BrRip.720p.x264.YIFY.mkv
+
 wget https://ipfs.io/ipfs/QmXrvr9FwVT2d2RzVZXCXZMncPPz9YvQM55xvLi9GUk9qK -O Better_Than_Chocolate_-_1999_Multisub.mkv
+
 wget https://ipfs.io/ipfs/QmfPH9TpcPZ5BTCQwDEcNEgZBCR4oQ52ztg1fQdrLykEgx -O Strawberry_and_Chocolate.avi
 wget https://ipfs.io/ipfs/QmYvN9S6WrsuLXGyQdEuP5NxuuspJhzYwYCxc395BSbY28 -O La_voz_dormida_2011_[DVDRip][Spanish][WwW.ZoNaTorrent.CoM].avi
+
 wget https://ipfs.io/ipfs/QmSquttco7x8vhrdED4jbUNzd2nFjN2iNFGM2MP6Jdwh5a -O Elena.Undone.2010.DvdRip.Xvid_{1337x}-Noir.avi
+
 wget https://ipfs.io/ipfs/Qmf3v865c2HRi5dLf8vJCshe3MexSa8su9eSEkpfxWCALq -O Liz.In.September.2014.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+
 wget https://ipfs.io/ipfs/QmbZqUs5wMLoGRd5HSsReKcsiAYGPp7pw7EeNAF5J8hdKu -O Tiempos_de_Guerra_S01E02.mp4
 wget https://ipfs.io/ipfs/QmbJYEgvS8FfYrQ9mNia3M6Syfid8wATy8MxgAoMBGjT27 -O Tiempos_de_Guerra_S01E12.mp4
 wget https://ipfs.io/ipfs/QmcxLuKaEAtWkqYCH2zfqFrwNjoXQuGikpQXAQadcux8jg -O Tiempos_de_Guerra_S01E04.mp4
@@ -48,10 +65,13 @@ wget https://ipfs.io/ipfs/QmYxic8eoXH7dfZVPuqB1mxaLXgZNJ3MboqRBfiFyUCG2E -O Tiem
 wget https://ipfs.io/ipfs/Qmbrfwdcwm26DuuuzAMRjeM3vJzSb1A4UTLi6q23uDBMSP -O Tiempos_de_Guerra_S01E10.mp4
 wget https://ipfs.io/ipfs/QmcEofk6xadMvGQhwYhTffwDFNPcj4Tk959MLRxe1p4n5R -O Tiempos_de_Guerra_S01E13.mp4
 wget https://ipfs.io/ipfs/QmV3MifzEgysDy3ryiR3jj6kBS9nbMK24YPB4VyMTayAu9 -O Tiempos_de_Guerra_S01E01.mp4
+
 wget https://ipfs.io/ipfs/QmPE2pSxV3ZaQ26kdk8Mayw5WkArLt9FaMqPwwghxRsrxc -O Ausente_Absent_2011.avi
+
 wget https://ipfs.io/ipfs/QmV47MTQzzem7c5yLXJPU9XDBG5nk39u7dKaRWHbAXKprv -O Measure.For.Measure.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-wget https://ipfs.io/ipfs/QmRi64ZsJPn7qj3fHfAzrNGfFQtN78BGkWNBhvbkATUfcw -O ar15_complete.zip
+
 wget https://ipfs.io/ipfs/QmXmonWcNpYcot8TBLfrkup8DtuGDGjVmauiUzmTFLzAYa -O Alto.2015.UNRATED.HDRip.XviD.AC3-EVO.avi
+
 wget https://ipfs.io/ipfs/QmVMpJtoWC8LADou3LP7HMG1feuBwdoK6Uns7be1biFmbu -O Sky_Rojo_S01E02.mkv
 wget https://ipfs.io/ipfs/QmastB5H2wmhBbvjPGR5Fy87HQ7GtAxNGJpVmiYctzFxF7 -O Sky_Rojo_S01E01.mkv
 wget https://ipfs.io/ipfs/QmV4gh1W5254AWYXPfMLArV7zkLWGXpus3muyLuGGG2x9R -O Sky_Rojo_S01E08.mkv
@@ -60,9 +80,13 @@ wget https://ipfs.io/ipfs/QmfPuTk8rHWfxxU6XKGGWSzkCMwJaCdfvr6HfxpJ9dgwKM -O Sky_
 wget https://ipfs.io/ipfs/QmPVdZGKvTGdmj1JsXGTGNqECB82zsQrKJvmFg88wb4KLV -O Sky_Rojo_S01E05.mkv
 wget https://ipfs.io/ipfs/QmekG4UtLacpzXA7CVkJNxe2tHwk4ydUnM5fVJ6hkpJoMp -O Sky_Rojo_S01E03.mkv
 wget https://ipfs.io/ipfs/QmNz6RtQa99C2wScrHSpP6PC1XZbaiDuQa7ioSw78QggJV -O Sky_Rojo_S01E04.mkv
+
 wget https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ -O The.Carmilla.Movie.2017.1080p.WEBRip.x264-[YTS.AM].mp4
+
 wget https://ipfs.io/ipfs/QmbhJWtnDXVHApqk2MyVKaEFet3Pzbtigw1EvjrMGWSz88 -O Disobedience.2017.BRRip.XViD-ETRG.avi
+
 wget https://ipfs.io/ipfs/QmVPPxp8w6nHjh65Zv8KnutkPmW3gb3NPtiLDg6Kdduxe7 -O Diary.Of.A.Chambermaid.1964.1080p.BluRay.x264.AAC-[YTS.MX].mp4
+
 wget https://ipfs.io/ipfs/QmaX6wBnfJcs3sbKhCdN3jDbshbLFuw315xoSRHcUfAgHD -O Cloudburst.2011.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
 
 
