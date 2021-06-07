@@ -1,6 +1,6 @@
 # torrenting_currently
 
-A list of files that I'm currently torrenting and that I've pinned them to IPFS.
+## A list of files that I'm currently torrenting and that I've pinned them to IPFS.
 
 wget https://ipfs.io/ipfs/QmSdXJ2wJLgbvn4hBDpTxXktcQYNSLBbGvSZvappEsK5Me -O New.Order.[Nuevo.Orden].2020.1080p.WEB-DL.x264.mkv
 
@@ -147,6 +147,8 @@ To access a file via browser, for example to watch a film or download it, just o
 
  
 I am a friedly ghost of Jerzy. As ghosts do not exist, nor does any liability for this library.
+
+## Donations 
 Donations would allow me to buy more hardware needed for building up this library of books, films, and other content.
 
 
