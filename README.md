@@ -152,5 +152,5 @@ Donations would allow me to buy more hardware needed for building up this librar
 
 Monero (XMR):
 
-4AyUcoJy7MJGLGD7ujn8ppJtUBLWqzMU3ds1rcYysHZQ3KuqfZ54kLPAM5KSouCKu1H96Xp5ysee3BhkYYV3jejAD5qPwsn
+88S2BYSVUHYiZk7mosqnWGHerYxspZ4MEQ9N2PkpbviE6frTQiiuSzBDkPvPsFDwgSfPNHNog91qsHLi8pYDysLu3Twom9R
 
